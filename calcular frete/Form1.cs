@@ -16,5 +16,10 @@ namespace calcular_frete
         {
             InitializeComponent();
         }
+
+        private void btcalcular_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
